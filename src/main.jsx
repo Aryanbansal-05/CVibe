@@ -6,7 +6,7 @@ import App2 from './App2.jsx'
 import App from './App.jsx'
 
 import {RouterProvider } from 'react-router'
-import { Navbar } from './navbar.jsx'
+import { Navbar } from './Navbar'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
    
