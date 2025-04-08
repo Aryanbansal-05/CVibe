@@ -24,16 +24,6 @@ Welcome to **CVibe**, a sleek and responsive resume builder built with **React**
 
 ---
 
-## 📸 Screenshots
-
-### 🔧 Editor Page
-<img src="./src/assets/editor-screenshot.png" alt="Editor UI" width="800"/>
-
-### 📄 Resume Preview
-<img src="./src/assets/resume-preview.png" alt="Resume UI" width="800"/>
-
----
-
 ## 🛠️ Tech Stack
 
 | Tech             | Description                  |
