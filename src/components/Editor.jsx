@@ -37,7 +37,7 @@ export default function Editor({
             <img src={printIcon} className="w-8 h-8" />
           
           </button>
-          <h3 className="text-blue-400 text-xs"> (custom margins 5mm)</h3>
+          <h3 className="text-blue-400 text-xs"> ( make custom margins 5mm)</h3>
         </div>
       </header>
       <PersonalDetails
