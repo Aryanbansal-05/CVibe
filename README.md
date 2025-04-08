@@ -1,12 +1,64 @@
-# React + Vite
+# 🚀 CVibe - Your Modern Resume Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **CVibe**, a sleek and responsive resume builder built with **React**, **Vite**, and **Tailwind CSS**. CVibe allows users to effortlessly create beautiful, printable resumes directly in the browser. It supports multiple templates, profile photo uploads, real-time editing, and one-click printing—all wrapped in a clean, intuitive UI.
 
-Currently, two official plugins are available:
+![CVibe Banner](./src/assets/cvibe-banner.png) <!-- Replace with your actual image if available -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🖥️ **Live Resume Editing**
+- 🎨 **Multiple Template Options**
+- 🖼️ **Upload Profile Picture**
+- 🖨️ **Print-Ready PDF Output**
+- 📱 **Fully Responsive Design**
+- ⚡ Powered by **Vite** for fast builds
+- 💅 Styled with **Tailwind CSS**
+
+---
+
+## 🌐 Live Demo
+
+🔗 [Check out CVibe on Vercel](https://cvibe-pearl.vercel.app)
+
+---
+
+## 📸 Screenshots
+
+### 🔧 Editor Page
+<img src="./src/assets/editor-screenshot.png" alt="Editor UI" width="800"/>
+
+### 📄 Resume Preview
+<img src="./src/assets/resume-preview.png" alt="Resume UI" width="800"/>
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech             | Description                  |
+|------------------|------------------------------|
+| ⚛️ React         | UI Library                   |
+| ⚡ Vite          | Next-gen frontend toolchain  |
+| 💨 Tailwind CSS | Utility-first CSS framework  |
+| 🖼️ SVG Icons    | Modern visual icons          |
+
+---
+
+## 📂 Folder Structure
+
+```bash
+CVibe/
+├── public/                 # Static assets
+├── src/
+│   ├── assets/             # Images and icons
+│   ├── components/         # Modular components like Education, Skills, etc.
+│   ├── App.jsx             # Main application logic
+│   ├── App2.jsx            # Alternate resume layout
+│   ├── App3.jsx            # Routing handler
+│   ├── navbar.jsx          # Navigation bar
+│   └── main.jsx            # ReactDOM entry point
+├── index.html
+├── tailwind.config.js
+├── vite.config.js
+└── package.json
