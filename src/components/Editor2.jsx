@@ -36,7 +36,7 @@ export default function Editor({
           >
             <img src={printIcon} className="w-8 h-8" />
           </button>
-          <h3 className="text-blue-400 text-xs "> (Background Graphics:ON)</h3>
+          <h3 className="text-blue-400 text-xs "> ( make background Graphics:ON)</h3>
         </div>
       </header>
       <PersonalDetails2
