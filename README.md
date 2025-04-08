@@ -2,6 +2,7 @@
 
 Welcome to **CVibe**, a sleek and responsive resume builder built with **React**, **Vite**, and **Tailwind CSS**. CVibe allows users to effortlessly create beautiful, printable resumes directly in the browser. It supports multiple templates, profile photo uploads, real-time editing, and one-click printing—all wrapped in a clean, intuitive UI.
 
+![CVibe Banner](./src/assets/face.png) <!-- Replace with your actual image if available -->
 
 ---
 
