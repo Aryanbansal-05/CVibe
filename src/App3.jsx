@@ -2,7 +2,7 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router";
 import App from "./App";
 import App2 from "./App2";
-import { Navbar } from "./navbar";
+import { Navbar } from "./Navbar";
 
 const router = createBrowserRouter(
     [
